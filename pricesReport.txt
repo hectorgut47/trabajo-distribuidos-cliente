@@ -1,0 +1,15 @@
+---------------
+-------PRICES REPORT-------
+---------------
+Product id: B01N997C1B
+  Original price: 118.98 EUR at 01:55, 04/01/2018
+  - Price at 02:21, 04/01/2018 : 118.98 EUR
+---------------
+Product id: B074P9ZGTC
+  Original price: 92.78 EUR at 01:55, 04/01/2018
+  - Price at 02:21, 04/01/2018 : 92.78 EUR
+---------------
+Product id: B00AKBQWW4
+  Original price: 8.3 EUR at 01:55, 04/01/2018
+  - Price at 02:21, 04/01/2018 : 8.3 EUR
+---------------
